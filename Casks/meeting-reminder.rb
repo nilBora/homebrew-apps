@@ -1,6 +1,6 @@
 cask "meeting-reminder" do
-  version "1.1.6"
-  sha256 "7d3af4e8f4034ae5bf939b6d4c23e0be986cce3121a2921ee1183ad033c7e24c"
+  version "1.1.7"
+  sha256 "66e27451ea85ab71eb11883f2139043112b6940bf8df7b773bdc020d3834f35e"
 
   url "https://github.com/nilBora/meeting-reminder/releases/download/v#{version}/MeetingReminder-#{version}.dmg"
   name "Meeting Reminder"
