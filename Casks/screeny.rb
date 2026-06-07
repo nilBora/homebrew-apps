@@ -1,6 +1,6 @@
 cask "screeny" do
-  version "1.0.4"
-  sha256 "2e270610c3099d55911327f3a0a95d9dfd5ccf381237b98dfb25eb001175272c"
+  version "1.0.5"
+  sha256 "43000ba70d94ab3b588dce6e6c36c2d0bd8a8f6b01e571c07d7a354597229f59"
 
   url "https://github.com/nilBora/Screeny/releases/download/v#{version}/Screeny-#{version}.dmg"
   name "Screeny"
